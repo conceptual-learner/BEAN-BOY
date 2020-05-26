@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1B1FEE97-EC59-971A-88A6-072526FF5CB1}") = "2D Platformer", "Assembly-CSharp.csproj", "{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
