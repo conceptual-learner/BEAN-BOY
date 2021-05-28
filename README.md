@@ -21,4 +21,4 @@ Unique game elements are:
               
               7.A unique and challenging boss battle
 
-Since this was one of our first project during our undergraduate, there are a lot of bugs. The coding style and standards might not be up to the mark. Please bear with the code.
+Since this was one of our first project during our undergraduate, there are a lot of things to be improved. The coding style and UI might not be up to the mark. 
